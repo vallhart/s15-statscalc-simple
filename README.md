@@ -1,2 +1,2 @@
 # s15-statscalc-simple
-Simple character's stats calculator for the S15 RPG System
+Very simple character stats calculator for the S15 RPG System
